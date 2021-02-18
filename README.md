@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hello! My name is Leonardo 👋
 
-<!--
-**gomezgleonardob/gomezgleonardob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am developer in Python language currently living in Cuenca, Ecuador. My interests range from technology to programming. I am also interested in camping, web development, and video games.
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- [Basic reporting system ](https://github.com/gomezgleonardob/Basic_Report_System)
+- [Documentation of Openventi](https://github.com/openventi/documentation)
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- [Translation of Python Documentation into Spanish](https://github.com/python/python-docs-es)
+
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Networks:
+
+- [Website](https://gomezgleonardob.dev)
+- [Linkedin](https://www.linkedin.com/in/leonardo-gomez-562701204/)
+- [Dev.to](https://dev.to/gomezgleonardob/)
+- [Twitter](https://twitter.com/gomezgleonardob/)
