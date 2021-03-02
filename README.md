@@ -14,6 +14,4 @@ I am developer in Python language currently living in Cuenca, Ecuador. My intere
 ## Social Networks:
 
 - [Website](https://gomezgleonardob.dev)
-- [Linkedin](https://www.linkedin.com/in/leonardo-gomez-562701204/)
-- [Dev.to](https://dev.to/gomezgleonardob/)
-- [Twitter](https://twitter.com/gomezgleonardob/)
+
