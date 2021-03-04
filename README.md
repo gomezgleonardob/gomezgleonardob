@@ -10,8 +10,3 @@ I am developer in Python language currently living in Cuenca, Ecuador. My intere
 - 👯 I’m  collaborate on ...
 - [Translation of Python Documentation into Spanish](https://github.com/python/python-docs-es)
 
-
-## Social Networks:
-
-- [Website](https://gomezgleonardob.dev)
-
