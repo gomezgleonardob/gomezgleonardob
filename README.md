@@ -6,7 +6,6 @@ I am developer in Python language currently living in Cuenca, Ecuador. My intere
 
 - 🔭 I’m currently working on ...
 - [Basic reporting system ](https://github.com/gomezgleonardob/Basic_Report_System)
-- [Documentation of Openventi](https://github.com/openventi/documentation)
 - 👯 I’m  collaborate on ...
 - [Translation of Python Documentation into Spanish](https://github.com/python/python-docs-es)
 
