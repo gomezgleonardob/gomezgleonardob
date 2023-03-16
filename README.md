@@ -2,7 +2,7 @@
 
 **Me**
 
-I am developer in Python language. My interests range from technology to programming. I am also interested in camping, web development, and video games.
+I am developer in Python language. My interests range from technology to programming. Also interested in camping, web development, and video games.
 
 
 **About Me**
